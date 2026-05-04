@@ -2,5 +2,6 @@
 
 
 new changes
-feature 1 branch added
-added a animal image
+Feature 1 branch added.
+
+Added a animal image
